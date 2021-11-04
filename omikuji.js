@@ -30,3 +30,4 @@ if (rand == 4) {
 document.getElementById("result").innerHTML = userresult;
 2
 2
+2
